@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ehoxha91.github.io/sitemap.xml
